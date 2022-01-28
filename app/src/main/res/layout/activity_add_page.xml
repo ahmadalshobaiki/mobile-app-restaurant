@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#424C83"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".Orders.add_page">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <EditText
+            android:id="@+id/edit_text_item"
+            android:layout_width="170dp"
+            android:layout_height="50dp"
+            android:background="@android:drawable/editbox_background"
+            android:hint="enter total items"
+            android:padding="12dp"
+            tools:ignore="TextContrastCheck" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/edit_text_price"
+            android:layout_width="170dp"
+            android:layout_height="50dp"
+            android:background="@android:drawable/editbox_background"
+            android:hint="enter total price"
+            android:inputType="number"
+            android:padding="12dp"
+
+            tools:ignore="TextContrastCheck" />
+
+        <EditText
+            android:id="@+id/edit_text_date"
+            android:layout_width="170dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="40dp"
+            android:background="@android:drawable/editbox_background"
+            android:hint="enter date"
+            android:inputType="number"
+            android:padding="12dp"
+            tools:ignore="TextContrastCheck" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/bt_add"
+        android:layout_width="match_parent"
+
+        android:layout_height="70dp"
+        android:layout_marginRight="10dp"
+        android:fontFamily="@font/bungee"
+        android:onClick="addfun"
+        android:text="Add"></Button>
+
+    <Button
+        android:id="@+id/btn_gotoorders"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginRight="10dp"
+        android:text="go to orders"></Button>
+</LinearLayout>
+

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mustafa/StudioProjects/shrekrestaurant/app/src/main/res/layout/activity_login.xml" value="0.21467391304347827" />
+        <entry key="..\:/Users/Mustafa/StudioProjects/shrekrestaurant/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Mustafa/StudioProjects/shrekrestaurant/app/src/main/res/layout/activity_menu.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/shrekrestaurant/app/src/main/res/drawable/ic_delete.xml" value="0.17314814814814813" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/shrekrestaurant/app/src/main/res/drawable/ic_edit.xml" value="0.17314814814814813" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/shrekrestaurant/app/src/main/res/drawable/modrenlook2.xml" value="0.17314814814814813" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/shrekrestaurant/app/src/main/res/layout/activity_add_page.xml" value="0.35462962962962963" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/shrekrestaurant/app/src/main/res/layout/activity_bill_page.xml" value="0.35462962962962963" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/shrekrestaurant/app/src/main/res/layout/activity_menu.xml" value="0.12037037037037036" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/shrekrestaurant/app/src/main/res/layout/activity_order_page.xml" value="0.32037037037037036" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/shrekrestaurant/app/src/main/res/layout/activity_orders_page.xml" value="0.17037037037037037" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/shrekrestaurant/app/src/main/res/layout/dialog_update.xml" value="0.35462962962962963" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/drawable/bottom_navigation_selector.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/drawable/button.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/drawable/ic_baseline_account_box_24.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/drawable/ic_baseline_food_bank_24.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/drawable/ic_baseline_restaurant_menu_24.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/drawable/ic_baseline_storefront_24.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/drawable/rounded_button.xml" value="0.2703125" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/font/bungee.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/layout/activity_about_us.xml" value="0.264" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/layout/activity_add_page.xml" value="0.4" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/layout/activity_bottom_navigation.xml" value="0.176" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/layout/activity_home.xml" value="0.176" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/layout/activity_login.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/layout/activity_main.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/layout/activity_menu.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/layout/activity_order_page.xml" value="0.1609375" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/layout/activity_registration.xml" value="0.2" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/layout/activity_user_profile.xml" value="0.2" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/layout/dialog_update.xml" value="0.1609375" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/layout/fragment_1.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/layout/fragment_2.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/layout/fragment_3.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/layout/fragment_4.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/layout/fragment_about_us.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/layout/fragment_main_menu.xml" value="0.2" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/layout/fragment_orders_test.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/layout/fragment_user_profile.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/layout/list_row_main.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/menu/bottom_menu.xml" value="0.264" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV2/app/src/main/res/menu/bottom_nav.xml" value="0.264" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV4/app/src/main/res/drawable/ic_baseline_arrow_circle_right_24.xml" value="0.15572916666666667" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV4/app/src/main/res/drawable/ic_wave_bg_header.xml" value="0.2703125" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV4/app/src/main/res/layout/activity_add_page.xml" value="0.264" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV4/app/src/main/res/layout/activity_bill_page.xml" value="0.2" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV4/app/src/main/res/layout/activity_cart.xml" value="0.25271739130434784" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV4/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV4/app/src/main/res/layout/activity_order_page.xml" value="0.2" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV4/app/src/main/res/layout/activity_user_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV4/app/src/main/res/layout/fragment_1.xml" value="0.264" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV4/app/src/main/res/layout/fragment_2.xml" value="0.264" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV4/app/src/main/res/layout/fragment_3.xml" value="0.25271739130434784" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV4/app/src/main/res/layout/fragment_4.xml" value="0.25271739130434784" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV4/app/src/main/res/layout/fragment_cart.xml" value="0.2" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV4/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV4/app/src/main/res/layout/fragment_main_menu.xml" value="0.264" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV4/app/src/main/res/layout/list_items_cart.xml" value="0.264" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV4/app/src/main/res/layout/list_items_mainmenu.xml" value="0.264" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV4/app/src/main/res/layout/list_row_main.xml" value="0.4" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV4/app/src/main/res/menu/bottom_nav.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ahmad/Downloads/shrekrestaurantV4/app/src/main/res/menu/cart_menu.xml" value="0.4" />
+        <entry key="..\:/Users/m2aak/AndroidStudioProjects/shrekrestaurantV4/app/src/main/res/drawable/ic_fsplash.xml" value="0.10740740740740741" />
+        <entry key="..\:/Users/m2aak/AndroidStudioProjects/shrekrestaurantV4/app/src/main/res/layout/activity_order_page.xml" value="0.2875" />
+        <entry key="..\:/Users/m2aak/AndroidStudioProjects/shrekrestaurantV4/app/src/main/res/layout/activity_splash.xml" value="0.20520833333333333" />
+        <entry key="..\:/shrekrestaurantV4/app/src/main/res/layout/activity_cart.xml" value="0.213768115942029" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

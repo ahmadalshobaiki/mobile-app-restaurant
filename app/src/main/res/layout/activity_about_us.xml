@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutUsFragment"
+    >
+
+    <FrameLayout
+        android:id="@+id/frameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="600dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true">
+
+    </FrameLayout>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/fragment1btn"
+        android:layout_width="120dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="14dp"
+        android:layout_marginBottom="49dp"
+        android:background="@drawable/button"
+        android:textColor="#FFF"
+        android:backgroundTint="#0d6e6a"
+        android:fontFamily="@font/bungee"
+        android:text="Mission">
+
+    </androidx.appcompat.widget.AppCompatButton>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/fragment2btn"
+        android:layout_width="120dp"
+        android:layout_height="60dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginRight="145dp"
+        android:layout_marginBottom="48dp"
+        android:background="@drawable/button"
+        android:textColor="#FFF"
+        android:backgroundTint="#0d6e6a"
+        android:fontFamily="@font/bungee"
+        android:text="Vision">
+
+    </androidx.appcompat.widget.AppCompatButton>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/fragment4btn"
+        android:layout_width="120dp"
+        android:layout_height="60dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginRight="13dp"
+        android:layout_marginBottom="50dp"
+        android:background="@drawable/button"
+        android:backgroundTint="#0d6e6a"
+        android:textColor="#FFF"
+        android:fontFamily="@font/bungee"
+        android:text="Values">
+
+    </androidx.appcompat.widget.AppCompatButton>
+
+
+</RelativeLayout>

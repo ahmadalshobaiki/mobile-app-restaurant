@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="8dp"
+    android:background="#424C83"
+    >
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/dialog_nameED"
+        android:hint="name"
+        android:padding="12dp"
+        android:lines="1"
+        android:gravity="top"
+        android:inputType="text"
+        android:background="@android:drawable/editbox_background"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/dialog_itemED"
+        android:hint="items"
+        android:padding="12dp"
+        android:lines="1"
+        android:gravity="top"
+        android:inputType="text"
+        android:background="@android:drawable/editbox_background"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/dialog_priceED"
+        android:hint="price"
+        android:padding="12dp"
+        android:lines="1"
+        android:gravity="top"
+        android:inputType="number"
+        android:background="@android:drawable/editbox_background"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/dialog_quanED"
+        android:hint="quantity"
+        android:padding="12dp"
+        android:lines="1"
+        android:gravity="top"
+        android:inputType="number"
+        android:background="@android:drawable/editbox_background"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/dialog_bt_update"
+        android:text="update"
+        android:layout_marginTop="8dp"
+        />
+</LinearLayout>

@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">mobilerestaurantapp</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_us">About Us</string>
+    <string name="lorem">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Sed cursus dolor ex, in ullamcorper tellus eleifend eget.
+        Maecenas a commodo est. Ut luctus lacinia pretium.
+        Pellentesque ut magna mattis, interdum nisl id, auctor lorem.
+        In venenatis accumsan libero, vel elementum justo efficitur id.
+        Curabitur pharetra nisl sed odio placerat, suscipit posuere massa consequat.
+        Aenean sollicitudin orci ac varius venenatis. Nulla facilisi.\n\n\n
+        Quisque vehicula porta porttitor.
+        Aliquam libero est, fringilla vitae ultrices a, volutpat quis tortor.
+        Mauris sodales non ante sit amet interdum.
+        Aenean mi nibh, consectetur vitae augue non, rhoncus varius velit.
+        Praesent commodo rutrum nisi.\n\n\n</string>
+    <string name="our_mission">Our Mission</string>
+    <string name="our_vision">Our Vision</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="Values">Values</string>
+    <string name="mission">We’re Here to Feed and Foster communities. We know there’s a big difference between being in a community, and being part of one.\n\n That’s why we work every day to make a positive impact on the thousands of places we call home.</string>
+    <string name="about">We welcome you to sit back, unwind and appreciate the lovely sights and hints of the city while our best gourmet expert sets you up a scrumptious dinner utilizing the best and freshest ingredients.\n\n Shrek Restaurant’s legacy comes from its secret blend of spices and herbs which was built up in 1963.</string>
+    <string name="values">01
+We place the
+customer experience
+at the core of all we do\n\n02
+
+We are committed
+to our people\n\n03
+
+We operate our business ethically\n\n04
+
+We give back to
+our communities\n\n05
+
+We grow
+our business
+profitably\n\n
+06
+
+We strive continually
+to improve</string>
+</resources>

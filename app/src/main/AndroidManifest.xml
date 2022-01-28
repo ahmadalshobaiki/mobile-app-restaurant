@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mobilerestaurantapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher12_round"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Shrekrestaurant">
+        <activity
+            android:name="com.example.mobilerestaurantapp.cart.CartActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mobilerestaurantapp.AboutUS"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mobilerestaurantapp.UserProfile"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mobilerestaurantapp.Orders.Order_page"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mobilerestaurantapp.Orders.bill_page"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mobilerestaurantapp.Orders.add_page"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mobilerestaurantapp.Home"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mobilerestaurantapp.Registration"
+            android:exported="true" />
+        <activity
+            android:name="com.example.mobilerestaurantapp.Login"
+            android:exported="true"/>
+        <activity
+            android:name="com.example.mobilerestaurantapp.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

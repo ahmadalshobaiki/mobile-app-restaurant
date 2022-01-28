@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment2">
+
+    <!-- TODO: Update blank fragment layout -->
+    <FrameLayout
+        android:id="@+id/frameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="600dp">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="100dp"
+            android:fontFamily="@font/bungee"
+            android:text="@string/our_vision"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textColor="#0d6e6a"
+            android:textSize="30sp"
+            android:textStyle="bold">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/our_vision_text"
+            android:layout_width="300dp"
+            android:layout_height="114dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="400dp"
+            android:fontFamily="@font/bungee"
+            android:justificationMode="inter_word"
+            android:scrollbars="vertical"
+            android:text="to move with velocity to drive profitable growth and become an even better restaurant serving more customers delicious food each day around the world."
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:textStyle="bold">
+
+        </TextView>
+
+        <ImageView
+            android:layout_width="164dp"
+            android:layout_height="157dp"
+            android:layout_gravity="center"
+            android:src="@drawable/vision">
+
+        </ImageView>
+
+    </FrameLayout>
+
+</RelativeLayout>
